@@ -1,0 +1,93 @@
+/* Restaurant Styles */
+/* in CSS */
+
+body
+{font-family: Rock Salt;
+margin: 0;
+padding: 0;}
+
+#pageTop 
+{width: 100%;
+height: 100px;
+margin: 0;
+background-color: #14871a;
+text-align: center;
+font-size: 3em;
+font-family: Rock Salt;
+color: #420900;}
+
+#menuBar
+{width: 100%;
+height: 80px;
+background-color: #a51903;
+margin: 0;
+font-family: Rock Salt;
+color: #03381c;}
+
+.sideBar
+{float: left;
+width: 20%;
+height: 2750px;
+font-family: Patua One;
+background-image:  url("../images/mexbckg.jpg");
+color: white;
+color: #14871a;}
+
+.mainDisplay
+{float: left;
+width: 79%;
+height: 2750px;
+background-color: white;
+font-family: Hammersmith One;
+background-color: #368748;}
+
+.menuItem
+{padding-top: 10px;
+padding-bottom: 10px;
+text-align: center;
+padding-right: 1px;
+float: left;
+width: 12%;
+color: black;
+font-size: 0.75em;
+border: 2px solid;}
+
+a
+{color: white;
+text-decoration: none;}
+
+.centeredList
+{}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
